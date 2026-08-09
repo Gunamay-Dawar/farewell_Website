@@ -24,9 +24,9 @@ st.title(" Rajsi & Gunu's Memory Lane ❤️")
 st.write("A trip down memory lane before we head off to our next adventures! Scroll down to relive the best moments.")
 
 # --- BACKGROUND MUSIC ---
-music_path = "assets/song.MP3"
+music_path = "assets/song.mp3"
 
-music_path = "assets/song.MP3"
+music_path = "assets/song.mp3"
 
 if os.path.exists(music_path):
     st.audio(music_path, format="audio/mp3", loop=True)
@@ -78,8 +78,8 @@ memories = [
     },
      {
         "image": "assets/matching tshirt day trio pic.jpeg",
-        "tagline": "9th May 2026",
-        "description": "This was taken at Pizza Bakery HSR Layout. Ayaan's last board exam and Gunamays last day before leaving to ashoka."
+        "tagline": "29th June 2026",
+        "description": "Rajsi, Adhit and gunu at S 203! Last pic in S 203"
     },
     {
         "image": "assets/ggyg.jpeg",
