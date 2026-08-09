@@ -87,12 +87,12 @@ memories = [
         "description": "Gunamay 14th bday"
     },
      {
-        "image": "assets/cvv.jpeg",
+        "image": "assets/cvvv.jpeg",
         "tagline": "9th May 2026",
         "description": "Pizza bakery dinner!"
     },
     {
-        "image": "assets/css.jpeg",
+        "image": "assets/csss.jpeg",
         "tagline": "3rd August, 2026",
         "description": "Morning brunch, few days before the great seperation 💔"
     },
