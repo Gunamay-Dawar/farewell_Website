@@ -39,12 +39,12 @@ memories = [
     {
         "image": "assets/20 nov 2021.jpeg", 
         "tagline": "20th November 2021, Gunamay's 14th birthday",
-        "description": "This marks exactly one year since we meat. I rememeber after this our group litr fought w neel😂😂 "
+        "description": "This marks exactly one year since we met. I remember after this our group litr fought w neel😂😂. Hahahh we r so kaleshi! #rakhisawant "
     },
     {
         "image": "assets/WhatsApp Image 2026-08-08 at 8.16.11 PM.jpeg", 
         "tagline": "27th December 2021, Rajsi's 13th Birthday",
-        "description": "Mc dondalds forever fav place for us fatties! Btw i still cant believe i was 14 and u were 12 for 2 months. Ur such a kid yaar"
+        "description": "Mc donalds forever fav place for us fatties! Btw i still cant believe i was 14 and u were 12 for 2 months. Ur such a kid yaar"
     },
     {
         "image": "assets/gunuuu.jpeg", 
@@ -59,17 +59,17 @@ memories = [
     {
         "image": "assets/hnnn.jpeg", 
         "tagline": "27th December 2025! Rajsi's 17th Birthday at Glens",
-        "description": "We had surprised u at glens Bakehouse."
+        "description": "We had surprised u at Glens Bakehouse. Forever gonna msis the eating red velvet mini-cupcakes and chocolate croissant w my fav "
     },
     {
         "image": "assets/fgfgg.jpeg",
         "tagline": "1st January 2026.",
-        "description": "Favourite New years!"
+        "description": "Favourite New years! I remember dancing in the park with everyone!!"
     },
     {
         "image": "assets/gunu rajsi last day pic nikita took.jpeg", 
         "tagline": "30th July 2025! ",
-        "description": "Gunamay's Last photo with rajsi as offical purvaites. This was taken by Nikita "
+        "description": "Gunamay's Last photo with rajsi as offical purvaites. This was taken by Nikita infront of Purva fairmont main gate. "
     },
     {
         "image": "assets/gunu yaps pfp.jpeg",
@@ -86,6 +86,15 @@ memories = [
         "tagline": "20th november 2021",
         "description": "Gunamay 14th bday"
     },
+    {
+        "image": "assets/adhit2.jpeg",
+        "tagline": "Exchanging gifts!!",
+        "description": "I think it's so funny how you got me a proper nice T-shirt that I still wear and I got you some goofy stuff😂😂."
+    },{
+        "image": "assets/8th october 2023.jpeg",
+        "tagline": "8th October, 2023",
+        "description": "Do you remember this pic? Bro this brough back so many old 10th grade memories! I remember this day so clearly, this picture is at mughal treat when we had gone to buy gauri ka final farwell gift. What a fun day i remember hwo much we roamed 27th main that dayy!!"
+    }, 
      {
         "image": "assets/cvvv.jpeg",
         "tagline": "9th May 2026",
@@ -110,6 +119,10 @@ memories = [
         "image": "assets/ddd.jpeg",
         "tagline": "17th November, 2025",
         "description": "Gunamay's surprise bday rajsi had arranged! Forever grateful (not greatful) to you. Cannot express how happy and shocked I was:) "
+    },{
+        "image": "assets/adhit5.jpeg",
+        "tagline": "Your Birthday!!",
+        "description": "This was right before I threw a cupcake in your eye. Im sorry for that I was aiming at your forehead but I missed. Still I think it's hilarious how you had no idea 😂"
     },
     {
         "image": "assets/ddddd.jpeg",
@@ -161,6 +174,16 @@ memories = [
         "description": "The day Rajsi got ger braces off after 2 years!!"
     },
     {
+        "image": "assets/adhit2.jpeg",
+        "tagline": "The first chapal pose!!",
+        "description": "That day was hilarious Im sure u remember it. Even though it's making fun of me I love that it started a new tradition where we take this pic on every important occasion 😋"
+    },
+    {
+        "image": "assets/sep 9 20232.jpeg",
+        "tagline": "9th September, 2023. Garba 2022",
+        "description": "I think this is one of my fondest memories with you! Ill never forget dancing on Hey! Ho! Shanaya Shanaya! I dont think ill ever be able to watch any movie of sid malothra without being reminded of you."
+    },  
+    {
         "image": "assets/rajsi shrabs gunu coffee makers day.jpeg",
         "tagline": "23rd July, 2026",
         "description": "Rajsi Shraddha and Gunamay at Coffee makers"
@@ -174,6 +197,89 @@ memories = [
         "image": "assets/rajsi gunu bday christmas.jpeg",
         "tagline": "27th December, 2025",
         "description": "Rajsi's 17th Birthday eve!!"
+    },  {
+        "image": "assets/aug 21 2022.jpeg",
+        "tagline": "21st August, 2022",
+        "description": " Shraddha's 15th Birthday. I think this is our first pic together?"
+    },
+    {
+        "image": "assets/aug 27 2022.jpeg",
+        "tagline": "27th August, 2022",
+        "description": "We had gone out for Shrabs ka 15th birthday to polar bear! I remEmebr we were tryign to take embaressing pics of u LMFOAO."
+    }, 
+     {
+        "image": "assets/aug 21 2021.jpeg",
+        "tagline": "21st August, 2021",
+        "description": " Shraddha's 14th Birthday. We all had made a huge card together for her and gone to her house to cut the cake that My3 had made."
+    },
+    {
+        "image": "assets/dec 27, 2021.jpeg",
+        "tagline": "27th December, 2021",
+        "description": "Rajsi's 13th Birthday. Ill never be able to believe that when we actually met for the first tiem you were 11 and i was 13 and now we are 17 and 18???!! WHATTT how did time fly so fast? It seems like just yesterday we were kaleshing on stupid topics every thrusday?"
+    },
+     {
+        "image": "assets/adhit1.jpeg",
+        "tagline": "Yulu day😋😋",
+        "description": " I lost the clip where you're taking me on yulu but I have to say I was impressed I didn't expect you to be able to balance me. This gives me little confidence in you to finally learn scooty and not crash I think you will be able to do it eventually ☝️"
+    },
+    {
+        "image": "assets/oct 5 2022.jpeg",
+        "tagline": "5th October, 2022. Garba 2022",
+        "description": "You me and Shraddha at Mc Donalds after attending garba in 2022 at HSR BDA"
+    },
+    
+     {
+        "image": "assets/june 5 2022.jpeg",
+        "tagline": "5th June 2022",
+        "description": " Rajat's Birthday party at Taco Bell! Fav person rajat da LMFAOOA. "
+    },
+    {
+        "image": "assets/24 october 2022.jpeg",
+        "tagline": "24th October, 2022. Garba 2022",
+        "description": "This was Diwali of 2022. I believe this was my third Diwali at Purva with you all! And i remember this was our first year tryign to light a lanturn and it was such a fail cus it kept hitting the V block houses LMFAOAO."
+    }, 
+     {
+        "image": "assets/july 14 202`.jpeg",
+        "tagline": "14th July, 2021",
+        "description": "Bro ur snapchat phase is so funny. I think u should be grateful i didnt chose any bad picture cus I definately wanted to bro. But since I am a changed man, I've decided to be nice to you and use only nice pics.  "
+    },
+    {
+        "image": "assets/25th mar 2024.jpeg",
+        "tagline": "25th March, 2024. Holi 2024",
+        "description": "I dont think this pic deserves any description cus we both know this day very well😂😂😭"
+    },
+     {
+        "image": "assets/2.jpeg",
+        "tagline": "21st october, 2025",
+        "description": "BRO this is another pic which does not require any explanation. I still think this is my fav pic of ours LMFOAOAO. But gen what a funny day to look back on bro. "
+    },
+
+    {
+        "image": "assets/adhit4.jpeg",
+        "tagline": "Cooking maggi at gunus✌️",
+        "description": "Love ragebaiting you but to be fair all you did was stir only so it's fine I think my ragebait was valid"
+    },
+    {
+        "image": "assets/1.jpeg",
+        "tagline": "26t June, 2026",
+        "description": "Bro this is such a cute pic! This is the day Sidhika was leaving to college. "
+    },
+
+    {
+        "image": "assets/aug 28 2022.jpeg",
+        "tagline": "28th August, 2022",
+        "description": "Shraddha's birthday at Polar bear. I remember this was the year we made shrabs ka card together while watching kabhi khushu kabhi gham! and i remember writign the - not sohan not mohan only rohan! like 10 times in the cardd!!"
+    }, 
+     {
+        "image": "assets/rajsi gunu infront of diwali house.jpeg",
+        "tagline": "Infront of Diwali House",
+        "description": "I think im going to remember this house forever. 2 years in a row getting scolded by same uncle is forever such a fond memory with you!"
+    },
+
+    {
+        "image": "assets/4.jpeg",
+        "tagline": "22nd June, 2025",
+        "description": "HAHHAHA im so sorry, now that i see this video i feel so bad for pulling ur hairrrr😭😭😭😭"
     }
     ]
 
