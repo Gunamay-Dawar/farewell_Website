@@ -301,4 +301,6 @@ for memory in memories:
         st.warning(f"Image not found at '{img_path}'. Check filename in assets folder!")
 
 # --- FOOTER ---
+st.write("My Heart cannot accept the fact that us - 12 year olds who met 6 years ago are now college students moving across the country and world. I cannot imagine a world where you are not 2 minutes away and i cannot just call u down to play cus I'm bored. Im so proud of where you have come and I am so confident that you are going to do so great. I hope we always have the goofy silly budhu sa bond where we can laugh every minute. I don't think I'll ever be able to Imagine Bangalore ka life without you! All the best for your future and I'm always on your side just a call away. Love you so so so much🫶")
+
 st.markdown("<h4 style='text-align: center;'>To many more memories in the future! ❤️</h4>", unsafe_allow_html=True)
