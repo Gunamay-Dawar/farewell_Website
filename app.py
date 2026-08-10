@@ -91,7 +91,7 @@ memories = [
         "tagline": "Exchanging gifts!!",
         "description": "I think it's so funny how you got me a proper nice T-shirt that I still wear and I got you some goofy stuff😂😂."
     },{
-        "image": "assets/8th october 2023.jpeg",
+        "image": "assets/8th october 2023.jpg",
         "tagline": "8th October, 2023",
         "description": "Do you remember this pic? Bro this brough back so many old 10th grade memories! I remember this day so clearly, this picture is at mughal treat when we had gone to buy gauri ka final farwell gift. What a fun day i remember hwo much we roamed 27th main that dayy!!"
     }, 
