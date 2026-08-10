@@ -87,7 +87,7 @@ memories = [
         "description": "Gunamay 14th bday"
     },
     {
-        "image": "assets/adhit2.jpeg",
+        "image": "assets/adhit3.jpeg",
         "tagline": "Exchanging gifts!!",
         "description": "I think it's so funny how you got me a proper nice T-shirt that I still wear and I got you some goofy stuff😂😂."
     },{
