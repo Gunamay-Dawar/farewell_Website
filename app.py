@@ -179,7 +179,7 @@ memories = [
         "description": "That day was hilarious Im sure u remember it. Even though it's making fun of me I love that it started a new tradition where we take this pic on every important occasion 😋"
     },
     {
-        "image": "assets/sep 9 2023.jpeg",
+        "image": "assets/sep 9 2023.jpg",
         "tagline": "9th September, 2023. Garba 2022",
         "description": "I think this is one of my fondest memories with you! Ill never forget dancing on Hey! Ho! Shanaya Shanaya! I dont think ill ever be able to watch any movie of sid malothra without being reminded of you."
     },  
