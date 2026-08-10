@@ -42,7 +42,7 @@ memories = [
         "description": "This marks exactly one year since we met. I remember after this our group litr fought w neel😂😂. Hahahh we r so kaleshi! #rakhisawant "
     },
     {
-        "image": "assets/WhatsApp Image 2026-08-08 at 8.16.11 PM.jpeg", 
+        "image": "assets/dec 22 2022.jpeg", 
         "tagline": "27th December 2021, Rajsi's 13th Birthday",
         "description": "Mc donalds forever fav place for us fatties! Btw i still cant believe i was 14 and u were 12 for 2 months. Ur such a kid yaar"
     },
